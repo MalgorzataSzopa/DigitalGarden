@@ -50,7 +50,7 @@ export default function Note({ pageContext, data }) {
     initialZoom: 1.4,
     // nodeHighlightBehavior: true,
     node: {
-      color: "gray",
+      color: "#892da0",
       size: 120,
       fontSize: 10,
     }
