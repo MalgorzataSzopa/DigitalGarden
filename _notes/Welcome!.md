@@ -3,7 +3,7 @@ title: "Welcome!"
 slug: "home"
 date: 2021-05-01
 ---
-<img src="https://raw.githubusercontent.com/MalgorzataSzopa/PictureHost/master/Welcome%20sign3.png" alt="hello" style="width:1000px;"/>
+<img src="https://raw.githubusercontent.com/MalgorzataSzopa/PictureHost/master/Welcome%20sign3.png" alt="hello" style="max-width:100%;height:auto;"/>
 
 
 <p>&nbsp;</p>

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Self Learning.md",
+            "file": "Welcome!.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self Learning.md",
+                "file": "Welcome!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,10 +88,10 @@
   },
   "active": "525a0dc44a6a3009",
   "lastOpenFiles": [
+    "Welcome!.md",
     "Self Learning.md",
     "Music.md",
     "University Studies.md",
-    "Welcome!.md",
     "Games.md",
     "Daily Struggles.md",
     "Game2.md",
