@@ -52,9 +52,9 @@ export default function Note({ pageContext }) {
     width: 1100,
     
     node: {
-      color: "gray",
+      color: "#ffb0f4",
       size: 120,
-      fontSize: 10,
+      fontSize: 12,
       highlightFontSize: 10,
       highlightFontWeight: "bold",
       highlightStrokeColor: "black",

@@ -3,7 +3,7 @@ body {
   padding-top: 56px;
   font-family: Inter;
   background-color: #292929;
-  color: rgb(226, 226, 226);
+  color: rgb(255, 255, 255);
   
 }
 
@@ -16,7 +16,7 @@ body {
   border-top: 1px solid #a0a0a0;
 }
 .table thead th {
-  border-bottom: 2px solid #eeeeee;
+  border-bottom: 2px solid #ffffff;
 }
 
 /* Header */
@@ -29,6 +29,9 @@ body {
 
 .navbar-nav .dropdown:hover .dropdown-menu {
   display: block;
+  background-color: #ffb0f4;
+  color:rgb(255, 255, 255);
+
   
   
 }
@@ -36,7 +39,7 @@ body {
 nav.navbar {
   
   
-	background-color:  #ff83ee !important;
+	background-color:  #ffb0f4 !important;
   
   
 }

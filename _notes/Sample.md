@@ -1,3 +1,0 @@
-
-Sample note
-### Sample note
