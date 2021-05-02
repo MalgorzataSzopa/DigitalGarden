@@ -13,7 +13,9 @@ date: 2021-05-01
 <p>&nbsp;</p>
 
 <p>I study computer science and live a simple student life. Here I will be writing about my days, classes, events. I'll be sharing what I have learned, what I want to learn and you'll be able to see if my knowlage grows... or not! I gladly discuss my mistakes and ways I approach learning. You'll be also subjected to my music tastes and gaming experiences! </p>
-All the "branches"  in this garden are listed below. Have fun!
+All the "branches"  in this garden are listed below. Have fun! <br>
+Check out my 
+<a href="https://github.com/MalgorzataSzopa"\>GitHub</a>
 
 ![](https://raw.githubusercontent.com/MalgorzataSzopa/MalgorzataSzopa/master/LSgif.gif)![](https://raw.githubusercontent.com/MalgorzataSzopa/MalgorzataSzopa/master/LSgif.gif)![](https://raw.githubusercontent.com/MalgorzataSzopa/MalgorzataSzopa/master/LSgif.gif)
 
@@ -29,6 +31,8 @@ I'm a Doom fanatic! 😈
 Here's the branch where I keep notes of off-topic stuff.
 ## [[Music]]
 Wanna know my taste in music? You don't need to look any further!
+
+
 
 
 
