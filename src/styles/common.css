@@ -6,6 +6,18 @@ body {
   color: rgb(255, 255, 255);
   
 }
+pre code {
+  
+  font-size: inherit;
+  color:#00b7ff;
+  word-break: normal;
+  white-space: pre;
+  -webkit-overflow-scrolling: touch;
+  overflow-x: scroll;
+  max-width: 100%;
+  min-width: 100px;
+  padding: 0;
+}
 
 .table-striped tbody tr:nth-of-type(2n+1) {
   background-color: #686868;

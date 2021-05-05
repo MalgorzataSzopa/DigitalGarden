@@ -17,6 +17,8 @@ So, the HTML is used to create Web pages. We'll start with it to define <b>struc
 
 We start by typing ! and editor writes frist standard code for us, pretty handy eh? I didn't know about that before, but at least I know <b>now.</b>
 
+
+	
 ```html
 <!DOCTYPE html>
 <html lang="en">
