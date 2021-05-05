@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Road to JS!.md",
+            "file": "University Studies.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Road to JS!.md",
+                "file": "University Studies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,10 +88,10 @@
   },
   "active": "525a0dc44a6a3009",
   "lastOpenFiles": [
+    "University Studies.md",
     "Road to JS!.md",
     "Welcome!.md",
     "Games.md",
-    "University Studies.md",
     "Self Learning.md",
     "Music.md",
     "Daily Struggles.md",
