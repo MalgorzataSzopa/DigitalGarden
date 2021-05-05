@@ -4,6 +4,7 @@ tags: ["HTML" , "CSS", "WebDev", "learning","university"]
 date: 2021-05-05
 ---
 Part of [[University-Studies]] branch.
+
 ## Road to JS (HTML & CSS)
 In this semester, one of our subject is "JavaScript and its frameworks".
 So I decided to start in the beggining, with a HTML&CSS crash course, since I didn't remember much of any of it 🤣
