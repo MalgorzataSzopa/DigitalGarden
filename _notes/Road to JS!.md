@@ -1,6 +1,6 @@
 ---
 title: "Road-to-JS"
-tags: ["HTML" , "CSS", "WebDev", "learning" "University"]
+tags: ["HTML" , "CSS", "WebDev", "learning","university"]
 date: 2021-05-05
 ---
 Part of [[University Studies]] branch.

@@ -10,3 +10,5 @@ Here I connect all notes that I made during studing for my university exams or m
 
 It's not always what I want to do, but it's definetly something that i **should** do.😂
 
+For now you can observe my [[Road to JS!]]
+
