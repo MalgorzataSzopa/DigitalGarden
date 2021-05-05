@@ -1,5 +1,5 @@
 ---
-title: "University-Studies"
+title: "university-studies"
 tags: ["univesity" , "learning", "studies"]
 date: 2021-05-01
 ---

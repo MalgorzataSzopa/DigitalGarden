@@ -19,7 +19,7 @@ Check out my
 
 ![](https://raw.githubusercontent.com/MalgorzataSzopa/MalgorzataSzopa/master/LSgif.gif)![](https://raw.githubusercontent.com/MalgorzataSzopa/MalgorzataSzopa/master/LSgif.gif)![](https://raw.githubusercontent.com/MalgorzataSzopa/MalgorzataSzopa/master/LSgif.gif)
 
-## [[University Studies]]
+## [[University-Studies]]
 I study computer science, profile: Computer games design.<br>
 this branch connect all the notes I write about my lectures, and what I learn in classes. I share my exercises and how i go about the solutions... or how I can't find a solution :D See my path to finishing University!
 ## [[Self Learning]]
