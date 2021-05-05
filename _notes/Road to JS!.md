@@ -3,7 +3,7 @@ title: "Road-to-JS"
 tags: ["HTML" , "CSS", "WebDev", "learning","university"]
 date: 2021-05-05
 ---
-Part of [[University-Studies]] branch.
+Part of [[university-studies]] branch.
 
 ## Road to JS (HTML & CSS)
 In this semester, one of our subject is "JavaScript and its frameworks".
